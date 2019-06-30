@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+}
+
+.container {
+    background: #2196F3;
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+    height: 500px;
+}
+
+#mydiv {
+    position: absolute;
+    /* margin-top: 20px; */
+    background-color: #f1f1f1;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    cursor: move;
+}
+
+#mydivheader {
+    padding: 10px;
+    /* cursor: move; */
+    background-color: #2196F3;
+    color: #fff;
+}
